@@ -1,6 +1,12 @@
 #include<iostream>
 using namespace std;
 int main(){
-    cout<<"Hello Git!"<<endl;
-    return 0;
+    int a, b;
+cout<<"Enter first number : ";
+cin >> a;
+cout<<"enter second number : ";
+cin >> b;
+int sum = a + b;
+cout<<"Sum = " << sum << endl;
+return 0;
 }
