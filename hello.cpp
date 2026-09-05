@@ -2,9 +2,9 @@
 using namespace std;
 int main(){
     int a, b;
-cout<<"Enter first number : ";
+cout<<"enter first github number: ";
 cin >> a;
-cout<<"enter second number : ";
+cout<<"enter second github number: ";
 cin >> b;
 int sum = a + b;
 cout<<"Sum = " << sum << endl;
